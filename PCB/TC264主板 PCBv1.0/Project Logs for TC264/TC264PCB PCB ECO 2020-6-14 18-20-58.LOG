@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetBAT_2 Pin=钮子开关-1
+Removed Pin From Net: NetName=VCCBAT Pin=钮子开关-2
+Removed Member From Class: ClassName=TC264Sheet Member=钮子开关
+Change Component Designator: OldDesignator=Motor1 NewDesignator=供电1
+Change Component Designator: OldDesignator=Motor2 NewDesignator=电机接口2
+Change Component Designator: OldDesignator=PWM1 NewDesignator=电机接口1
+Change Component Designator: OldDesignator=speed1 NewDesignator=编码器1
+Change Component Designator: OldDesignator=speed2 NewDesignator=编码器2
+Change Component Designator: OldDesignator=speed3 NewDesignator=编码器3
+Change Component Designator: OldDesignator=speed4 NewDesignator=编码器4
+Added Component: Designator=on/off(小扭子开关)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT_2 Pin=on/off-1
+Added Pin To Net: NetName=VCCBAT Pin=on/off-2
+Added Pin To Net: NetName=VCCBAT Pin=on/off-3
+Added Member To Class: ClassName=TC264Sheet Member=Component on/off Header 3
+Added Room: Name=TC264Sheet

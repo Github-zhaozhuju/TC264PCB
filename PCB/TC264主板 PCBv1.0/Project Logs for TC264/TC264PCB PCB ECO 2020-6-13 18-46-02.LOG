@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VCCOPA Pin=OPA1_2-1
+Removed Pin From Net: NetName=VCCOPA Pin=OPA2_2-1
+Added Component: Designator=only_1(0603µç×è_)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ONLY(0603µç×è_)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCOPA Pin=ONLY-1
+Added Pin To Net: NetName=VCC5V Pin=only_1-1
+Change Net Name : Old Net Name=VCCOPA New Net Name=VCCOP
+Added Pin To Net: NetName=VCCOPA Pin=ONLY-2
+Added Pin To Net: NetName=VCCOPA Pin=only_1-2
+Added Pin To Net: NetName=VCCOPA Pin=OPA1_2-1
+Added Pin To Net: NetName=VCCOPA Pin=OPA2_2-1
+Added Net: Name=VCCOPA
+Added Member To Class: ClassName=TC264Sheet Member=Component only_1 0R
+Added Member To Class: ClassName=TC264Sheet Member=Component ONLY 0R

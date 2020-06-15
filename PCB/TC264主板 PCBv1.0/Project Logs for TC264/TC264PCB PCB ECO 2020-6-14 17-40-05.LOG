@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=W2UART Old Footprint=HDR2X4 New Footprint=HDR2.54-M-LS-2x4P
+Change Component Footprint: Designator=ADC Old Footprint=HDR2X8 New Footprint=HDR2.54-M-LS-2x8P
+Change Component Footprint: Designator=Camera Old Footprint=HDR2X8 New Footprint=HDR2.54-M-LS-2x8P
+Change Component Footprint: Designator=OLED/TFT Old Footprint=HDR2X8 New Footprint=HDR2.54-M-LS-2x8P
+Added Room: Name=TC264Sheet

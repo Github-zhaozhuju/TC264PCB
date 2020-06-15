@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=供电1 NewDesignator=Motor_1
+Change Component Designator: OldDesignator=供电2 NewDesignator=Motor_2
+Change Component Designator: OldDesignator=电机接口1 NewDesignator=Motor1
+Change Component Designator: OldDesignator=电机接口2 NewDesignator=Motor2
+Change Component Designator: OldDesignator=编码器1 NewDesignator=speed1
+Change Component Designator: OldDesignator=编码器2 NewDesignator=speed2
+Change Component Designator: OldDesignator=编码器3 NewDesignator=speed3
+Change Component Designator: OldDesignator=编码器4 NewDesignator=speed4

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=电机接口1 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Footprint: Designator=电机接口2 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Footprint: Designator=编码器1 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Footprint: Designator=编码器2 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Footprint: Designator=编码器3 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Footprint: Designator=编码器4 Old Footprint=HDR2X3 New Footprint=HDR2.54-M-LS-2x3P
+Change Component Designator: OldDesignator=ON/OFF NewDesignator=钮子开关
+Added Member To Class: ClassName=TC264Sheet Member=Component 钮子开关 Header 2
+Added Room: Name=TC264Sheet
